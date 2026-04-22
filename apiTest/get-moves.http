@@ -1,0 +1,4 @@
+### Get move history
+@gameId = 1
+
+GET http://localhost:8080/games/{{gameId}}/moves

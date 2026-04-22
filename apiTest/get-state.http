@@ -1,0 +1,4 @@
+### Get current board state
+@gameId = 1
+
+GET http://localhost:8080/games/{{gameId}}/state

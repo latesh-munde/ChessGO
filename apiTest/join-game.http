@@ -1,0 +1,5 @@
+### Join existing game
+@gameId = 1
+
+POST http://localhost:8080/games/{{gameId}}/join
+Content-Type: application/json
