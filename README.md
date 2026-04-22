@@ -152,7 +152,7 @@ POST   /games/{id}/resign → Resign game
 ### 1. Clone Repository
 
 ```
-git clone <repo-url>
+git clone https://github.com/latesh-munde/ChessGO.git
 cd chess-server
 ```
 
